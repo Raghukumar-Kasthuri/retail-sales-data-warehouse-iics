@@ -1,9 +1,9 @@
-# retail-data-warehouse-iics
-End-to-End Retail Data Warehouse using IICS
-# Retail Data Warehouse Project (IICS)
+# retail-Sales-data-warehouse-iics
+End-to-End Retail Sales Data Warehouse using IICS
+# Retail Sales Data Warehouse Project (IICS)
 
 ## 📌 Project Overview
-This project demonstrates an end-to-end retail data warehouse built using
+This project demonstrates an end-to-end retail Sales data warehouse built using
 Informatica Intelligent Cloud Services (IICS) and SQL Server.
 
 The goal is to design and implement a scalable dimensional model,
